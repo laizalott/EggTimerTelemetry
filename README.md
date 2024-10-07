@@ -1,7 +1,5 @@
 # EggTimerTelemetry
 
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png "Sample inline image")
-
 A simple project to receive telemetry data from some source. This README file was
 basically copied from [sampleproject].
 
